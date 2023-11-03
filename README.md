@@ -4,7 +4,7 @@ This is a simple web-based To-Do List application. You can add, mark, and remove
 
 ## Live Demo
 
-![Live Demo](https://sufianadnan.github.io/To-Do-List/)
+[Live Demo](https://sufianadnan.github.io/To-Do-List/)
 
 ## Features
 
